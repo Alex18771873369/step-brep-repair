@@ -18,7 +18,7 @@
     "./package.json": "./package.json"
   },
   "keywords": ["dsh-plugin", "deepseek-harness", "cad", "step", "freecad"],
-  "files": ["index.js", "cordis.patch.yml", "skills", "README.md", "PUBLISHING.md", "LICENSE"],
+  "files": ["index.js", "cordis.patch.yml", "skills", "docs", "README.md", "PUBLISHING.md", "LICENSE"],
   "dsh": {
     "bundle": {
       "patch": "./cordis.patch.yml"
